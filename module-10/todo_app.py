@@ -14,6 +14,7 @@ MODIFICATIONS:
 """
 import tkinter as tk
 import sys
+import tkinter.messagebox
 
 # Define color palette for complementary menu items
 MENU_BG_COLOR = "#E0FFFF" # Light Cyan (Complementary to Navy)
